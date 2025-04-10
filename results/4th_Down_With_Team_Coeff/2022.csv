@@ -1,132 +1,132 @@
 offense,total_attempts,actual_conversion_rate,avg_predicted_prob
-Air Force,31,51.61%,30.70%
-Akron,31,32.26%,29.72%
-Alabama,30,36.67%,32.92%
-App State,56,30.36%,31.81%
-Arizona,36,27.78%,31.38%
-Arizona State,28,46.43%,31.46%
-Arkansas,35,22.86%,30.94%
-Arkansas State,38,36.84%,30.93%
-Army,32,34.38%,31.27%
-Auburn,53,33.96%,31.63%
-BYU,43,20.93%,30.99%
-Ball State,35,20.00%,31.11%
-Baylor,50,46.00%,31.64%
-Boise State,28,32.14%,30.87%
-Boston College,26,30.77%,30.67%
-Bowling Green,43,25.58%,30.32%
-Buffalo,47,36.17%,31.24%
-California,41,34.15%,30.90%
-Central Michigan,39,41.03%,30.60%
-Charlotte,55,18.18%,30.83%
-Cincinnati,37,18.92%,30.40%
-Clemson,25,36.00%,31.69%
-Coastal Carolina,42,33.33%,31.98%
-Colorado,49,26.53%,29.87%
-Colorado State,50,28.00%,29.89%
-Duke,36,41.67%,30.81%
-East Carolina,40,32.50%,30.52%
-Eastern Michigan,44,18.18%,31.00%
-Florida,45,40.00%,31.65%
-Florida Atlantic,31,38.71%,31.81%
-Florida International,49,22.45%,29.75%
-Florida State,26,19.23%,30.78%
-Fresno State,27,33.33%,31.18%
-Georgia,23,52.17%,31.48%
-Georgia Southern,47,25.53%,32.10%
-Georgia State,54,38.89%,31.49%
-Georgia Tech,49,24.49%,30.12%
-Hawai'i,51,37.25%,30.46%
-Houston,41,36.59%,30.90%
-Illinois,45,26.67%,30.37%
-Indiana,42,35.71%,30.32%
-Iowa,25,20.00%,30.41%
-Iowa State,50,28.00%,30.58%
-James Madison,36,19.44%,30.57%
-Kansas,34,32.35%,32.08%
-Kansas State,43,30.23%,30.74%
-Kent State,40,30.00%,30.92%
-Kentucky,46,32.61%,32.08%
-LSU,36,41.67%,31.26%
-Liberty,38,26.32%,30.30%
-Louisiana,47,36.17%,30.78%
-Louisiana Tech,60,30.00%,30.24%
-Louisville,51,23.53%,30.64%
-Marshall,37,21.62%,30.76%
-Maryland,51,33.33%,31.47%
-Massachusetts,51,23.53%,29.90%
-Memphis,36,30.56%,31.69%
-Miami,44,29.55%,30.10%
-Miami (OH),27,33.33%,31.57%
-Michigan,37,54.05%,32.24%
-Michigan State,51,23.53%,31.10%
-Middle Tennessee,44,40.91%,30.24%
-Minnesota,23,17.39%,31.50%
-Mississippi State,51,29.41%,31.36%
-Missouri,37,21.62%,30.39%
-NC State,35,31.43%,31.37%
-Navy,68,30.88%,30.34%
-Nebraska,23,21.74%,32.53%
-Nevada,45,26.67%,30.15%
-New Mexico,22,22.73%,31.40%
-New Mexico State,20,55.00%,31.42%
-North Carolina,51,37.25%,31.53%
-North Texas,45,26.67%,31.32%
-Northern Illinois,41,34.15%,31.39%
-Northwestern,46,23.91%,30.49%
-Notre Dame,31,22.58%,30.67%
-Ohio,38,21.05%,30.05%
-Ohio State,32,43.75%,32.45%
-Oklahoma,34,23.53%,30.90%
-Oklahoma State,36,33.33%,31.03%
-Old Dominion,42,26.19%,30.28%
-Ole Miss,50,34.00%,31.40%
-Oregon,44,36.36%,31.38%
-Oregon State,37,32.43%,31.13%
-Penn State,53,41.51%,31.34%
-Pittsburgh,32,12.50%,31.00%
-Purdue,39,38.46%,30.81%
-Rice,37,29.73%,31.16%
-Rutgers,41,21.95%,30.40%
-SMU,52,34.62%,32.45%
-San Diego State,30,30.00%,30.53%
-San José State,23,34.78%,32.52%
-South Alabama,37,32.43%,31.67%
-South Carolina,34,20.59%,30.82%
-South Florida,48,27.08%,30.97%
-Southern Miss,39,25.64%,30.16%
-Stanford,32,34.38%,30.88%
-Syracuse,28,25.00%,31.84%
-TCU,45,40.00%,31.41%
-Temple,54,27.78%,30.53%
-Tennessee,60,36.67%,32.65%
-Texas,38,39.47%,32.48%
-Texas A&M,31,19.35%,31.22%
-Texas State,31,22.58%,30.42%
-Texas Tech,55,43.64%,31.91%
-Toledo,39,33.33%,30.84%
-Troy,37,32.43%,30.93%
-Tulane,49,32.65%,30.88%
-Tulsa,38,28.95%,31.24%
-UAB,35,25.71%,30.30%
-UCF,46,50.00%,31.36%
-UCLA,42,52.38%,32.49%
-UConn,32,21.88%,30.79%
-UL Monroe,34,14.71%,31.31%
-UNLV,36,22.22%,31.30%
-USC,31,51.61%,33.73%
-UTEP,43,37.21%,31.09%
-UTSA,38,28.95%,31.82%
-Utah,43,53.49%,30.36%
-Utah State,52,38.46%,29.98%
-Vanderbilt,44,34.09%,30.32%
-Virginia,34,17.65%,29.62%
-Virginia Tech,27,14.81%,30.95%
-Wake Forest,48,33.33%,31.44%
-Washington,47,36.17%,32.60%
-Washington State,42,33.33%,31.45%
-West Virginia,45,46.67%,31.26%
-Western Kentucky,50,20.00%,29.59%
-Western Michigan,40,22.50%,29.61%
-Wisconsin,26,3.85%,31.19%
-Wyoming,14,7.14%,30.85%
+Air Force,31,51.61%,33.56%
+Akron,31,32.26%,30.52%
+Alabama,30,36.67%,33.07%
+App State,56,30.36%,31.96%
+Arizona,36,27.78%,29.68%
+Arizona State,28,46.43%,30.47%
+Arkansas,35,22.86%,30.41%
+Arkansas State,38,36.84%,28.67%
+Army,32,34.38%,34.33%
+Auburn,53,33.96%,28.71%
+BYU,43,20.93%,32.19%
+Ball State,35,20.00%,30.21%
+Baylor,50,46.00%,34.84%
+Boise State,28,32.14%,30.46%
+Boston College,26,30.77%,26.40%
+Bowling Green,43,25.58%,28.48%
+Buffalo,47,36.17%,32.49%
+California,41,34.15%,28.59%
+Central Michigan,39,41.03%,32.19%
+Charlotte,55,18.18%,30.30%
+Cincinnati,37,18.92%,30.01%
+Clemson,25,36.00%,35.64%
+Coastal Carolina,42,33.33%,31.54%
+Colorado,49,26.53%,28.11%
+Colorado State,50,28.00%,28.73%
+Duke,36,41.67%,29.20%
+East Carolina,40,32.50%,27.07%
+Eastern Michigan,44,18.18%,29.66%
+Florida,45,40.00%,31.61%
+Florida Atlantic,31,38.71%,32.86%
+Florida International,49,22.45%,28.25%
+Florida State,26,19.23%,27.95%
+Fresno State,27,33.33%,32.48%
+Georgia,23,52.17%,34.75%
+Georgia Southern,47,25.53%,33.02%
+Georgia State,54,38.89%,31.77%
+Georgia Tech,49,24.49%,30.64%
+Hawai'i,51,37.25%,30.75%
+Houston,41,36.59%,28.79%
+Illinois,45,26.67%,28.59%
+Indiana,42,35.71%,26.00%
+Iowa,25,20.00%,29.11%
+Iowa State,50,28.00%,29.07%
+James Madison,36,19.44%,30.21%
+Kansas,34,32.35%,30.03%
+Kansas State,43,30.23%,32.46%
+Kent State,40,30.00%,29.85%
+Kentucky,46,32.61%,32.21%
+LSU,36,41.67%,31.85%
+Liberty,38,26.32%,30.99%
+Louisiana,47,36.17%,32.86%
+Louisiana Tech,60,30.00%,29.26%
+Louisville,51,23.53%,28.51%
+Marshall,37,21.62%,29.75%
+Maryland,51,33.33%,30.57%
+Massachusetts,51,23.53%,30.11%
+Memphis,36,30.56%,33.35%
+Miami,44,29.55%,30.89%
+Miami (OH),27,33.33%,30.08%
+Michigan,37,54.05%,34.79%
+Michigan State,51,23.53%,30.80%
+Middle Tennessee,44,40.91%,29.98%
+Minnesota,23,17.39%,34.24%
+Mississippi State,51,29.41%,33.74%
+Missouri,37,21.62%,33.72%
+NC State,35,31.43%,31.01%
+Navy,68,30.88%,32.80%
+Nebraska,23,21.74%,32.30%
+Nevada,45,26.67%,27.03%
+New Mexico,22,22.73%,29.69%
+New Mexico State,20,55.00%,32.24%
+North Carolina,51,37.25%,30.04%
+North Texas,45,26.67%,32.22%
+Northern Illinois,41,34.15%,33.56%
+Northwestern,46,23.91%,31.49%
+Notre Dame,31,22.58%,33.20%
+Ohio,38,21.05%,29.12%
+Ohio State,32,43.75%,36.43%
+Oklahoma,34,23.53%,33.54%
+Oklahoma State,36,33.33%,29.86%
+Old Dominion,42,26.19%,26.35%
+Ole Miss,50,34.00%,30.38%
+Oregon,44,36.36%,33.47%
+Oregon State,37,32.43%,32.10%
+Penn State,53,41.51%,31.26%
+Pittsburgh,32,12.50%,31.33%
+Purdue,39,38.46%,33.31%
+Rice,37,29.73%,30.30%
+Rutgers,41,21.95%,28.95%
+SMU,52,34.62%,34.43%
+San Diego State,30,30.00%,31.19%
+San José State,23,34.78%,34.12%
+South Alabama,37,32.43%,34.79%
+South Carolina,34,20.59%,31.30%
+South Florida,48,27.08%,30.29%
+Southern Miss,39,25.64%,30.31%
+Stanford,32,34.38%,31.16%
+Syracuse,28,25.00%,27.54%
+TCU,45,40.00%,31.19%
+Temple,54,27.78%,33.43%
+Tennessee,60,36.67%,32.00%
+Texas,38,39.47%,31.60%
+Texas A&M,31,19.35%,28.48%
+Texas State,31,22.58%,32.20%
+Texas Tech,55,43.64%,32.12%
+Toledo,39,33.33%,31.77%
+Troy,37,32.43%,31.23%
+Tulane,49,32.65%,30.31%
+Tulsa,38,28.95%,29.97%
+UAB,35,25.71%,27.10%
+UCF,46,50.00%,30.55%
+UCLA,42,52.38%,31.91%
+UConn,32,21.88%,32.56%
+UL Monroe,34,14.71%,29.48%
+UNLV,36,22.22%,32.91%
+USC,31,51.61%,31.84%
+UTEP,43,37.21%,30.58%
+UTSA,38,28.95%,34.42%
+Utah,43,53.49%,32.83%
+Utah State,52,38.46%,29.88%
+Vanderbilt,44,34.09%,29.60%
+Virginia,34,17.65%,30.20%
+Virginia Tech,27,14.81%,27.72%
+Wake Forest,48,33.33%,31.63%
+Washington,47,36.17%,30.50%
+Washington State,42,33.33%,29.55%
+West Virginia,45,46.67%,32.25%
+Western Kentucky,50,20.00%,28.40%
+Western Michigan,40,22.50%,28.60%
+Wisconsin,26,3.85%,29.33%
+Wyoming,14,7.14%,35.09%
